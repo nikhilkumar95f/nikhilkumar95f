@@ -19,6 +19,6 @@ Hi 👋, I'm    Nikhil kumar<br>A passionate Data Scientist<br>🔭 I’m curren
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nikhilkumar95f&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=nikhilkumar95f&icon=0&color=100)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
