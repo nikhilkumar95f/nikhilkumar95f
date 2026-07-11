@@ -1,8 +1,13 @@
-<div align ="center>
-# hi am Nikhil kumar 
-</div>  
-# 💫 About Me:
-A passionate Data Scientist<br>🔭 I’m currently working on  Web Development projects<br>👯 I’m looking to collaborate on Open source, Data science projects<br>🌱 I’m currently learning Data science, Machine Learning, MERN Stack<br>📫 How to reach me nikhil9508821695@gmail.com 
+<div align="center">
+  <h1>👋 Hi, I'm Nikhil Kumar</h1>
+</div>
+
+## 💫 About Me
+
+🔭 I'm currently working on Web Development projects  
+👯 I'm looking to collaborate on Open Source & Data Science projects  
+🌱 I'm currently learning Data Science, Machine Learning & MERN Stack  
+📫 Reach me: nikhil9508821695@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumar95f&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 ## 🌐 Socials:
