@@ -1,6 +1,10 @@
-<div align="centre">
-# 👋 Hi, I'm Nikhil Kumar
-</div>
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilkumar95f&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkumar95f&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar95f&layout=compact&theme=radical)
 # 💫 About Me:
 A passionate Data Scientist<br>🔭 I’m currently working on  Web Development projects<br>👯 I’m looking to collaborate on Open source, Data science projects<br>🌱 I’m currently learning Data science, Machine Learning, MERN Stack<br>📫 How to reach me nikhil9508821695@gmail.com
 
