@@ -1,8 +1,15 @@
+
 <div align="center">
-  <h1>👋 Hi, I'm Nikhil Kumar</h1>
-  
+<p>Welcome to my GitHub Profile</p>
+<h1>👋 Hi, I'm Nikhil Kumar</h1>
+
+<h3>📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast </h3>
+
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilkumar95f&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 ## 💫 About Me
 
 🔭 I'm currently working on Web Development projects  
@@ -10,9 +17,8 @@
 🌱 I'm currently learning Data Science, Machine Learning & MERN Stack  
 📫 Reach me: nikhil9508821695@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumar95f&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
-## 🌐 Socials:
-## 🌐 Socials
+
+<div align="center">## 🌐 Socials:
 
 <p align="center">
 
@@ -44,8 +50,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div?
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
