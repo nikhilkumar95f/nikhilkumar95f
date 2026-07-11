@@ -1,8 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm    Nikhil kumar<br>A passionate Data Scientist<br>🔭 I’m currently working on  Web Development projects<br>👯 I’m looking to collaborate on Open source, Data science projects<br>🌱 I’m currently learning Data science, Machine Learning, MERN Stack<br>📫 How to reach me nikhil9508821695@gmail.com
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=
- />
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil.007n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NikhilK86017698) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil9508821695@gmail.com) 
 
