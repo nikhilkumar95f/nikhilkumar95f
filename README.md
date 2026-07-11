@@ -14,7 +14,6 @@ A passionate Data Scientist<br>🔭 I’m currently working on  Web Development 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhilkumar95f&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar95f&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilkumar95f&theme=radical&no-frame=false&no-bg=true&margin-w=4)
